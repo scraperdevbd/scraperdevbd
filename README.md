@@ -14,7 +14,6 @@
 
 <!-- About Section -->
 ### 🚀 About Me
-- 👨‍💻 Portfolio: **https://asifparvez.iam.bd**
 - 📫 Email: **scraperdev.bd@gmail.com**
 - 🌍 Region: **Bangladesh**
 - ⚡ Fun Fact: I love building creative UI & coding new ideas
