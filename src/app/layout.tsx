@@ -31,6 +31,7 @@ export const metadata: Metadata = {
     'ScraperDevBD',
     'Asif Parvez',
     'Asif Parvez Dev',
+    'ScraperDev BD',
     'AI Automation',
     'Web Scraping',
     'Website Building',
